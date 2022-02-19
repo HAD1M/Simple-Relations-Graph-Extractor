@@ -1,0 +1,11 @@
+images.odp
+.ipynb_checkpoints/
+*.ipynb
+API/NER/Model Training
+API/NER/Model Training-20211221T032509Z-001.zip
+__pycache__/
+API/Relation_Classification/data/
+API/NER/model/checkpoint-10530/optimizer.pt
+API/NER/model/checkpoint-10530/scheduler.pt
+API/NER/model/checkpoint-10530/trainer_state.json
+API/NER/model/checkpoint-10530/training_args.bin
